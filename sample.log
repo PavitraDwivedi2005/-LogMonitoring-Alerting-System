@@ -19,3 +19,503 @@
 2025-01-15 08:10:10 WARNING  Circuit breaker opened for database service
 2025-01-15 08:11:00 INFO  Database connection pool recovered
 2025-01-15 08:12:00 INFO  All systems operational
+[2026-05-06T07:33:07.918030+00:00] DEBUG [req-4953] [client 192.168.1.190] Retrying connection
+[2026-05-06T07:33:08.918030+00:00] DEBUG [req-3230] [client 192.168.1.152] Retrying connection
+[2026-05-06T07:33:09.918030+00:00] WARNING [req-6383] [client 192.168.1.169] Deprecated endpoint accessed
+[2026-05-06T07:33:10.918030+00:00] INFO [req-5805] [client 192.168.1.214] Query executed
+[2026-05-06T07:33:11.918030+00:00] INFO [req-9591] [client 192.168.1.79] User logged in
+[2026-05-06T07:33:12.918030+00:00] DEBUG [req-1438] [client 192.168.1.229] Retrying connection
+[2026-05-06T07:33:13.918030+00:00] INFO [req-3226] [client 192.168.1.118] User logged in
+[2026-05-06T07:33:14.918030+00:00] DEBUG [req-3822] [client 192.168.1.152] Retrying connection
+[2026-05-06T07:33:15.918030+00:00] WARNING [req-1143] [client 192.168.1.240] Deprecated endpoint accessed
+[2026-05-06T07:33:16.918030+00:00] INFO [req-8938] [client 192.168.1.185] Data processed successfully
+[2026-05-06T07:33:17.918030+00:00] INFO [req-1812] [client 192.168.1.80] Data processed successfully
+[2026-05-06T07:33:18.918030+00:00] INFO [req-2400] [client 192.168.1.187] Connection established
+[2026-05-06T07:33:19.918030+00:00] INFO [req-1480] [client 192.168.1.121] Data processed successfully
+[2026-05-06T07:33:20.918030+00:00] WARNING [req-5933] [client 192.168.1.235] API rate limit approaching
+[2026-05-06T07:33:21.918030+00:00] ERROR [req-7224] [client 192.168.1.79] Timeout waiting for response
+[2026-05-06T07:33:22.918030+00:00] DEBUG [req-5479] [client 192.168.1.126] Retrying connection
+[2026-05-06T07:33:23.918030+00:00] DEBUG [req-4729] [client 192.168.1.52] Cache miss
+[2026-05-06T07:33:24.918030+00:00] INFO [req-6783] [client 192.168.1.4] Metrics flushed
+[2026-05-06T07:33:25.918030+00:00] INFO [req-3688] [client 192.168.1.37] Metrics flushed
+[2026-05-06T07:33:26.918030+00:00] WARNING [req-2552] [client 192.168.1.28] Deprecated endpoint accessed
+[2026-05-06T07:33:27.918030+00:00] INFO [req-9450] [client 192.168.1.29] Connection established
+[2026-05-06T07:33:28.918030+00:00] INFO [req-7783] [client 192.168.1.34] User logged in
+[2026-05-06T07:33:29.918030+00:00] DEBUG [req-7745] [client 192.168.1.232] Cache miss
+[2026-05-06T07:33:30.918030+00:00] INFO [req-4092] [client 192.168.1.155] Data processed successfully
+[2026-05-06T07:33:31.918030+00:00] INFO [req-3101] [client 192.168.1.203] User logged in
+[2026-05-06T07:33:32.918030+00:00] DEBUG [req-3849] [client 192.168.1.110] Memory usage at 45%
+[2026-05-06T07:33:33.918030+00:00] ERROR [req-3644] [client 192.168.1.241] Invalid payload received
+[2026-05-06T07:33:34.918030+00:00] ERROR [req-3598] [client 192.168.1.251] Failed to connect to database
+[2026-05-06T07:33:35.918030+00:00] INFO [req-6273] [client 192.168.1.103] Connection established
+[2026-05-06T07:33:36.918030+00:00] INFO [req-6510] [client 192.168.1.10] Metrics flushed
+[2026-05-06T07:33:37.918030+00:00] INFO [req-3454] [client 192.168.1.234] Data processed successfully
+[2026-05-06T07:33:38.918030+00:00] INFO [req-6338] [client 192.168.1.185] Heartbeat ok
+[2026-05-06T07:33:39.918030+00:00] INFO [req-1003] [client 192.168.1.227] Data processed successfully
+[2026-05-06T07:33:40.918030+00:00] DEBUG [req-7879] [client 192.168.1.171] Thread spawned
+[2026-05-06T07:33:41.918030+00:00] INFO [req-8828] [client 192.168.1.25] Heartbeat ok
+[2026-05-06T07:33:42.918030+00:00] INFO [req-1208] [client 192.168.1.97] Heartbeat ok
+[2026-05-06T07:33:43.918030+00:00] DEBUG [req-2144] [client 192.168.1.229] Retrying connection
+[2026-05-06T07:33:44.918030+00:00] DEBUG [req-2802] [client 192.168.1.2] Thread spawned
+[2026-05-06T07:33:45.918030+00:00] CRITICAL [req-5053] [client 192.168.1.226] System out of memory
+[2026-05-06T07:33:46.918030+00:00] INFO [req-3372] [client 192.168.1.90] Query executed
+[2026-05-06T07:33:47.918030+00:00] INFO [req-4773] [client 192.168.1.55] Connection established
+[2026-05-06T07:33:48.918030+00:00] ERROR [req-8398] [client 192.168.1.165] Timeout waiting for response
+[2026-05-06T07:33:49.918030+00:00] INFO [req-1470] [client 192.168.1.179] Connection established
+[2026-05-06T07:33:50.918030+00:00] ERROR [req-2123] [client 192.168.1.146] Invalid payload received
+[2026-05-06T07:33:51.918030+00:00] DEBUG [req-2456] [client 192.168.1.231] Cache miss
+[2026-05-06T07:33:52.918030+00:00] INFO [req-7390] [client 192.168.1.73] User logged in
+[2026-05-06T07:33:53.918030+00:00] ERROR [req-5422] [client 192.168.1.183] Invalid payload received
+[2026-05-06T07:33:54.918030+00:00] INFO [req-6535] [client 192.168.1.2] Data processed successfully
+[2026-05-06T07:33:55.918030+00:00] INFO [req-2172] [client 192.168.1.204] User logged in
+[2026-05-06T07:33:56.918030+00:00] INFO [req-3717] [client 192.168.1.76] User logged in
+[2026-05-06T07:33:57.918030+00:00] INFO [req-3872] [client 192.168.1.45] Query executed
+[2026-05-06T07:33:58.918030+00:00] INFO [req-7698] [client 192.168.1.220] Connection established
+[2026-05-06T07:33:59.918030+00:00] INFO [req-9958] [client 192.168.1.4] Query executed
+[2026-05-06T07:34:00.918030+00:00] WARNING [req-2154] [client 192.168.1.198] Connection timeout
+[2026-05-06T07:34:01.918030+00:00] INFO [req-5205] [client 192.168.1.169] Heartbeat ok
+[2026-05-06T07:34:02.918030+00:00] WARNING [req-5928] [client 192.168.1.135] Deprecated endpoint accessed
+[2026-05-06T07:34:03.918030+00:00] INFO [req-7592] [client 192.168.1.210] User logged in
+[2026-05-06T07:34:04.918030+00:00] DEBUG [req-3738] [client 192.168.1.76] Cache miss
+[2026-05-06T07:34:05.918030+00:00] INFO [req-1849] [client 192.168.1.21] Data processed successfully
+[2026-05-06T07:34:06.918030+00:00] DEBUG [req-6553] [client 192.168.1.56] Retrying connection
+[2026-05-06T07:34:07.918030+00:00] DEBUG [req-9402] [client 192.168.1.241] Retrying connection
+[2026-05-06T07:34:08.918030+00:00] INFO [req-2497] [client 192.168.1.15] Heartbeat ok
+[2026-05-06T07:34:09.918030+00:00] ERROR [req-6287] [client 192.168.1.208] Failed to connect to database
+[2026-05-06T07:34:10.918030+00:00] INFO [req-8713] [client 192.168.1.245] Query executed
+[2026-05-06T07:34:11.918030+00:00] INFO [req-6661] [client 192.168.1.7] Data processed successfully
+[2026-05-06T07:34:12.918030+00:00] ERROR [req-3115] [client 192.168.1.129] Authentication failed
+[2026-05-06T07:34:13.918030+00:00] WARNING [req-2357] [client 192.168.1.111] High memory usage detected
+[2026-05-06T07:34:14.918030+00:00] DEBUG [req-7974] [client 192.168.1.141] Thread spawned
+[2026-05-06T07:34:15.918030+00:00] WARNING [req-8034] [client 192.168.1.213] Connection timeout
+[2026-05-06T07:34:16.918030+00:00] INFO [req-6708] [client 192.168.1.105] Metrics flushed
+[2026-05-06T07:34:17.918030+00:00] DEBUG [req-9435] [client 192.168.1.68] Retrying connection
+[2026-05-06T07:34:18.918030+00:00] INFO [req-6603] [client 192.168.1.45] Data processed successfully
+[2026-05-06T07:34:19.918030+00:00] INFO [req-4094] [client 192.168.1.12] Data processed successfully
+[2026-05-06T07:34:20.918030+00:00] DEBUG [req-2901] [client 192.168.1.212] Retrying connection
+[2026-05-06T07:34:21.918030+00:00] INFO [req-5108] [client 192.168.1.91] Data processed successfully
+[2026-05-06T07:34:22.918030+00:00] INFO [req-4729] [client 192.168.1.26] Data processed successfully
+[2026-05-06T07:34:23.918030+00:00] INFO [req-3415] [client 192.168.1.224] Heartbeat ok
+[2026-05-06T07:34:24.918030+00:00] WARNING [req-4262] [client 192.168.1.140] Connection timeout
+[2026-05-06T07:34:25.918030+00:00] INFO [req-6051] [client 192.168.1.192] Query executed
+[2026-05-06T07:34:26.918030+00:00] INFO [req-5970] [client 192.168.1.13] Connection established
+[2026-05-06T07:34:27.918030+00:00] DEBUG [req-9460] [client 192.168.1.151] Memory usage at 45%
+[2026-05-06T07:34:28.918030+00:00] INFO [req-3995] [client 192.168.1.65] Connection established
+[2026-05-06T07:34:29.918030+00:00] WARNING [req-9086] [client 192.168.1.198] API rate limit approaching
+[2026-05-06T07:34:30.918030+00:00] DEBUG [req-5926] [client 192.168.1.255] Retrying connection
+[2026-05-06T07:34:31.918030+00:00] INFO [req-8903] [client 192.168.1.214] Heartbeat ok
+[2026-05-06T07:34:32.918030+00:00] INFO [req-4758] [client 192.168.1.185] Heartbeat ok
+[2026-05-06T07:34:33.918030+00:00] INFO [req-5688] [client 192.168.1.83] User logged in
+[2026-05-06T07:34:34.918030+00:00] ERROR [req-7385] [client 192.168.1.243] Timeout waiting for response
+[2026-05-06T07:34:35.918030+00:00] INFO [req-7237] [client 192.168.1.250] Metrics flushed
+[2026-05-06T07:34:36.918030+00:00] INFO [req-6141] [client 192.168.1.158] Heartbeat ok
+[2026-05-06T07:34:37.918030+00:00] ERROR [req-8743] [client 192.168.1.182] Authentication failed
+[2026-05-06T07:34:38.918030+00:00] INFO [req-5835] [client 192.168.1.184] User logged in
+[2026-05-06T07:34:39.918030+00:00] DEBUG [req-3181] [client 192.168.1.66] Memory usage at 45%
+[2026-05-06T07:34:40.918030+00:00] DEBUG [req-3989] [client 192.168.1.250] Cache miss
+[2026-05-06T07:34:41.918030+00:00] INFO [req-2086] [client 192.168.1.44] Connection established
+[2026-05-06T07:34:42.918030+00:00] INFO [req-1741] [client 192.168.1.173] Metrics flushed
+[2026-05-06T07:34:43.918030+00:00] INFO [req-6443] [client 192.168.1.20] Connection established
+[2026-05-06T07:34:44.918030+00:00] INFO [req-5551] [client 192.168.1.226] Metrics flushed
+[2026-05-06T07:34:45.918030+00:00] DEBUG [req-9368] [client 192.168.1.35] Retrying connection
+[2026-05-06T07:34:46.918030+00:00] INFO [req-4846] [client 192.168.1.17] Data processed successfully
+[2026-05-06T07:34:47.918030+00:00] INFO [req-6701] [client 192.168.1.169] Data processed successfully
+[2026-05-06T07:34:48.918030+00:00] INFO [req-4867] [client 192.168.1.233] Metrics flushed
+[2026-05-06T07:34:49.918030+00:00] INFO [req-6056] [client 192.168.1.214] User logged in
+[2026-05-06T07:34:50.918030+00:00] INFO [req-9972] [client 192.168.1.250] User logged in
+[2026-05-06T07:34:51.918030+00:00] INFO [req-8376] [client 192.168.1.91] Query executed
+[2026-05-06T07:34:52.918030+00:00] INFO [req-8661] [client 192.168.1.241] User logged in
+[2026-05-06T07:34:53.918030+00:00] WARNING [req-6273] [client 192.168.1.106] Deprecated endpoint accessed
+[2026-05-06T07:34:54.918030+00:00] INFO [req-2123] [client 192.168.1.153] Data processed successfully
+[2026-05-06T07:34:55.918030+00:00] WARNING [req-5377] [client 192.168.1.98] Connection timeout
+[2026-05-06T07:34:56.918030+00:00] DEBUG [req-2962] [client 192.168.1.167] Thread spawned
+[2026-05-06T07:34:57.918030+00:00] DEBUG [req-5688] [client 192.168.1.112] Retrying connection
+[2026-05-06T07:34:58.918030+00:00] DEBUG [req-7688] [client 192.168.1.38] Thread spawned
+[2026-05-06T07:34:59.918030+00:00] DEBUG [req-5641] [client 192.168.1.148] Cache miss
+[2026-05-06T07:35:00.918030+00:00] DEBUG [req-9182] [client 192.168.1.152] Thread spawned
+[2026-05-06T07:35:01.918030+00:00] INFO [req-7525] [client 192.168.1.232] Query executed
+[2026-05-06T07:35:02.918030+00:00] WARNING [req-9033] [client 192.168.1.98] API rate limit approaching
+[2026-05-06T07:35:03.918030+00:00] ERROR [req-3190] [client 192.168.1.246] Timeout waiting for response
+[2026-05-06T07:35:04.918030+00:00] INFO [req-8057] [client 192.168.1.45] Metrics flushed
+[2026-05-06T07:35:05.918030+00:00] INFO [req-5314] [client 192.168.1.65] Heartbeat ok
+[2026-05-06T07:35:06.918030+00:00] INFO [req-9010] [client 192.168.1.53] Query executed
+[2026-05-06T07:35:07.918030+00:00] DEBUG [req-3252] [client 192.168.1.223] Cache miss
+[2026-05-06T07:35:08.918030+00:00] INFO [req-9866] [client 192.168.1.162] Query executed
+[2026-05-06T07:35:09.918030+00:00] DEBUG [req-7052] [client 192.168.1.190] Retrying connection
+[2026-05-06T07:35:10.918030+00:00] INFO [req-6258] [client 192.168.1.244] Connection established
+[2026-05-06T07:35:11.918030+00:00] INFO [req-1275] [client 192.168.1.77] Data processed successfully
+[2026-05-06T07:35:12.918030+00:00] INFO [req-8207] [client 192.168.1.139] User logged in
+[2026-05-06T07:35:13.918030+00:00] INFO [req-9422] [client 192.168.1.53] User logged in
+[2026-05-06T07:35:14.918030+00:00] INFO [req-9526] [client 192.168.1.192] Data processed successfully
+[2026-05-06T07:35:15.918030+00:00] WARNING [req-2856] [client 192.168.1.208] Deprecated endpoint accessed
+[2026-05-06T07:35:16.918030+00:00] DEBUG [req-8196] [client 192.168.1.8] Memory usage at 45%
+[2026-05-06T07:35:17.918030+00:00] INFO [req-4901] [client 192.168.1.230] User logged in
+[2026-05-06T07:35:18.918030+00:00] INFO [req-9997] [client 192.168.1.95] User logged in
+[2026-05-06T07:35:19.918030+00:00] INFO [req-5497] [client 192.168.1.244] Connection established
+[2026-05-06T07:35:20.918030+00:00] INFO [req-3083] [client 192.168.1.186] Connection established
+[2026-05-06T07:35:21.918030+00:00] INFO [req-7660] [client 192.168.1.104] Connection established
+[2026-05-06T07:35:22.918030+00:00] WARNING [req-7608] [client 192.168.1.33] Connection timeout
+[2026-05-06T07:35:23.918030+00:00] DEBUG [req-5140] [client 192.168.1.8] Memory usage at 45%
+[2026-05-06T07:35:24.918030+00:00] INFO [req-1083] [client 192.168.1.212] Connection established
+[2026-05-06T07:35:25.918030+00:00] DEBUG [req-2044] [client 192.168.1.205] Thread spawned
+[2026-05-06T07:35:26.918030+00:00] INFO [req-3345] [client 192.168.1.75] Query executed
+[2026-05-06T07:35:27.918030+00:00] INFO [req-6134] [client 192.168.1.74] Heartbeat ok
+[2026-05-06T07:35:28.918030+00:00] DEBUG [req-3440] [client 192.168.1.7] Thread spawned
+[2026-05-06T07:35:29.918030+00:00] INFO [req-6586] [client 192.168.1.254] Connection established
+[2026-05-06T07:35:30.918030+00:00] INFO [req-7580] [client 192.168.1.162] User logged in
+[2026-05-06T07:35:31.918030+00:00] DEBUG [req-8877] [client 192.168.1.81] Memory usage at 45%
+[2026-05-06T07:35:32.918030+00:00] INFO [req-1895] [client 192.168.1.185] Connection established
+[2026-05-06T07:35:33.918030+00:00] INFO [req-4677] [client 192.168.1.93] Heartbeat ok
+[2026-05-06T07:35:34.918030+00:00] DEBUG [req-8426] [client 192.168.1.86] Retrying connection
+[2026-05-06T07:35:35.918030+00:00] DEBUG [req-5143] [client 192.168.1.118] Retrying connection
+[2026-05-06T07:35:36.918030+00:00] CRITICAL [req-6017] [client 192.168.1.163] Database corrupted
+[2026-05-06T07:35:37.918030+00:00] INFO [req-4195] [client 192.168.1.190] Data processed successfully
+[2026-05-06T07:35:38.918030+00:00] INFO [req-8456] [client 192.168.1.29] Heartbeat ok
+[2026-05-06T07:35:39.918030+00:00] WARNING [req-5013] [client 192.168.1.220] High memory usage detected
+[2026-05-06T07:35:40.918030+00:00] INFO [req-5554] [client 192.168.1.139] Connection established
+[2026-05-06T07:35:41.918030+00:00] INFO [req-8895] [client 192.168.1.135] User logged in
+[2026-05-06T07:35:42.918030+00:00] INFO [req-3906] [client 192.168.1.85] Heartbeat ok
+[2026-05-06T07:35:43.918030+00:00] DEBUG [req-5169] [client 192.168.1.252] Retrying connection
+[2026-05-06T07:35:44.918030+00:00] INFO [req-3425] [client 192.168.1.215] Metrics flushed
+[2026-05-06T07:35:45.918030+00:00] INFO [req-1314] [client 192.168.1.2] Data processed successfully
+[2026-05-06T07:35:46.918030+00:00] INFO [req-9132] [client 192.168.1.221] Metrics flushed
+[2026-05-06T07:35:47.918030+00:00] DEBUG [req-1623] [client 192.168.1.58] Cache miss
+[2026-05-06T07:35:48.918030+00:00] ERROR [req-9269] [client 192.168.1.194] Timeout waiting for response
+[2026-05-06T07:35:49.918030+00:00] INFO [req-1160] [client 192.168.1.40] User logged in
+[2026-05-06T07:35:50.918030+00:00] INFO [req-7279] [client 192.168.1.8] Data processed successfully
+[2026-05-06T07:35:51.918030+00:00] INFO [req-5529] [client 192.168.1.105] User logged in
+[2026-05-06T07:35:52.918030+00:00] INFO [req-1095] [client 192.168.1.129] Connection established
+[2026-05-06T07:35:53.918030+00:00] INFO [req-1060] [client 192.168.1.34] Query executed
+[2026-05-06T07:35:54.918030+00:00] DEBUG [req-7838] [client 192.168.1.242] Memory usage at 45%
+[2026-05-06T07:35:55.918030+00:00] INFO [req-3882] [client 192.168.1.176] Connection established
+[2026-05-06T07:35:56.918030+00:00] INFO [req-8635] [client 192.168.1.166] Heartbeat ok
+[2026-05-06T07:35:57.918030+00:00] INFO [req-9827] [client 192.168.1.93] User logged in
+[2026-05-06T07:35:58.918030+00:00] INFO [req-6614] [client 192.168.1.155] Connection established
+[2026-05-06T07:35:59.918030+00:00] INFO [req-7953] [client 192.168.1.178] Connection established
+[2026-05-06T07:36:00.918030+00:00] INFO [req-4918] [client 192.168.1.209] Connection established
+[2026-05-06T07:36:01.918030+00:00] INFO [req-6735] [client 192.168.1.82] Query executed
+[2026-05-06T07:36:02.918030+00:00] DEBUG [req-1297] [client 192.168.1.188] Retrying connection
+[2026-05-06T07:36:03.918030+00:00] DEBUG [req-3913] [client 192.168.1.147] Thread spawned
+[2026-05-06T07:36:04.918030+00:00] DEBUG [req-6593] [client 192.168.1.119] Retrying connection
+[2026-05-06T07:36:05.918030+00:00] INFO [req-3880] [client 192.168.1.76] User logged in
+[2026-05-06T07:36:06.918030+00:00] DEBUG [req-4391] [client 192.168.1.85] Cache miss
+[2026-05-06T07:36:07.918030+00:00] WARNING [req-5807] [client 192.168.1.25] API rate limit approaching
+[2026-05-06T07:36:08.918030+00:00] ERROR [req-2668] [client 192.168.1.105] Timeout waiting for response
+[2026-05-06T07:36:09.918030+00:00] DEBUG [req-2738] [client 192.168.1.106] Memory usage at 45%
+[2026-05-06T07:36:10.918030+00:00] INFO [req-5964] [client 192.168.1.196] Connection established
+[2026-05-06T07:36:11.918030+00:00] INFO [req-6282] [client 192.168.1.251] Data processed successfully
+[2026-05-06T07:36:12.918030+00:00] INFO [req-8297] [client 192.168.1.251] Data processed successfully
+[2026-05-06T07:36:13.918030+00:00] INFO [req-7205] [client 192.168.1.209] User logged in
+[2026-05-06T07:36:14.918030+00:00] INFO [req-2432] [client 192.168.1.246] Metrics flushed
+[2026-05-06T07:36:15.918030+00:00] DEBUG [req-2797] [client 192.168.1.189] Cache miss
+[2026-05-06T07:36:16.918030+00:00] INFO [req-8933] [client 192.168.1.92] User logged in
+[2026-05-06T07:36:17.918030+00:00] DEBUG [req-5847] [client 192.168.1.2] Memory usage at 45%
+[2026-05-06T07:36:18.918030+00:00] INFO [req-6961] [client 192.168.1.195] Query executed
+[2026-05-06T07:36:19.918030+00:00] INFO [req-6513] [client 192.168.1.95] Heartbeat ok
+[2026-05-06T07:36:20.918030+00:00] ERROR [req-6827] [client 192.168.1.31] Failed to connect to database
+[2026-05-06T07:36:21.918030+00:00] INFO [req-3707] [client 192.168.1.232] Connection established
+[2026-05-06T07:36:22.918030+00:00] INFO [req-3311] [client 192.168.1.91] Query executed
+[2026-05-06T07:36:23.918030+00:00] DEBUG [req-5846] [client 192.168.1.201] Thread spawned
+[2026-05-06T07:36:24.918030+00:00] INFO [req-3702] [client 192.168.1.132] Data processed successfully
+[2026-05-06T07:36:25.918030+00:00] INFO [req-8520] [client 192.168.1.246] Query executed
+[2026-05-06T07:36:26.918030+00:00] INFO [req-3099] [client 192.168.1.246] Connection established
+[2026-05-06T07:36:27.918030+00:00] CRITICAL [req-1466] [client 192.168.1.64] Database corrupted
+[2026-05-06T07:36:28.918030+00:00] ERROR [req-5884] [client 192.168.1.134] Failed to connect to database
+[2026-05-06T07:36:29.918030+00:00] INFO [req-3950] [client 192.168.1.29] Connection established
+[2026-05-06T07:36:30.918030+00:00] INFO [req-8892] [client 192.168.1.193] Connection established
+[2026-05-06T07:36:31.918030+00:00] INFO [req-5199] [client 192.168.1.214] Heartbeat ok
+[2026-05-06T07:36:32.918030+00:00] INFO [req-5416] [client 192.168.1.11] Connection established
+[2026-05-06T07:36:33.918030+00:00] DEBUG [req-2157] [client 192.168.1.43] Thread spawned
+[2026-05-06T07:36:34.918030+00:00] INFO [req-1172] [client 192.168.1.1] Connection established
+[2026-05-06T07:36:35.918030+00:00] INFO [req-2341] [client 192.168.1.187] Data processed successfully
+[2026-05-06T07:36:36.918030+00:00] INFO [req-4695] [client 192.168.1.60] Query executed
+[2026-05-06T07:36:37.918030+00:00] INFO [req-1043] [client 192.168.1.9] Metrics flushed
+[2026-05-06T07:36:38.918030+00:00] INFO [req-8739] [client 192.168.1.97] Data processed successfully
+[2026-05-06T07:36:39.918030+00:00] INFO [req-1869] [client 192.168.1.121] Heartbeat ok
+[2026-05-06T07:36:40.918030+00:00] INFO [req-8963] [client 192.168.1.23] Connection established
+[2026-05-06T07:36:41.918030+00:00] ERROR [req-4469] [client 192.168.1.85] Timeout waiting for response
+[2026-05-06T07:36:42.918030+00:00] WARNING [req-3814] [client 192.168.1.57] Connection timeout
+[2026-05-06T07:36:43.918030+00:00] ERROR [req-2422] [client 192.168.1.60] Failed to connect to database
+[2026-05-06T07:36:44.918030+00:00] CRITICAL [req-1674] [client 192.168.1.182] Database corrupted
+[2026-05-06T07:36:45.918030+00:00] INFO [req-5960] [client 192.168.1.42] Heartbeat ok
+[2026-05-06T07:36:46.918030+00:00] ERROR [req-5732] [client 192.168.1.141] Authentication failed
+[2026-05-06T07:36:47.918030+00:00] INFO [req-8337] [client 192.168.1.181] Metrics flushed
+[2026-05-06T07:36:48.918030+00:00] INFO [req-4042] [client 192.168.1.160] User logged in
+[2026-05-06T07:36:49.918030+00:00] INFO [req-7207] [client 192.168.1.17] Connection established
+[2026-05-06T07:36:50.918030+00:00] INFO [req-6994] [client 192.168.1.61] Metrics flushed
+[2026-05-06T07:36:51.918030+00:00] INFO [req-8596] [client 192.168.1.119] User logged in
+[2026-05-06T07:36:52.918030+00:00] INFO [req-3870] [client 192.168.1.244] Data processed successfully
+[2026-05-06T07:36:53.918030+00:00] INFO [req-3859] [client 192.168.1.67] Metrics flushed
+[2026-05-06T07:36:54.918030+00:00] ERROR [req-1507] [client 192.168.1.120] Failed to connect to database
+[2026-05-06T07:36:55.918030+00:00] WARNING [req-1052] [client 192.168.1.79] High memory usage detected
+[2026-05-06T07:36:56.918030+00:00] DEBUG [req-5585] [client 192.168.1.238] Thread spawned
+[2026-05-06T07:36:57.918030+00:00] INFO [req-6947] [client 192.168.1.218] Connection established
+[2026-05-06T07:36:58.918030+00:00] ERROR [req-2425] [client 192.168.1.238] Authentication failed
+[2026-05-06T07:36:59.918030+00:00] INFO [req-9578] [client 192.168.1.96] User logged in
+[2026-05-06T07:37:00.918030+00:00] INFO [req-4622] [client 192.168.1.14] Query executed
+[2026-05-06T07:37:01.918030+00:00] INFO [req-2398] [client 192.168.1.53] Data processed successfully
+[2026-05-06T07:37:02.918030+00:00] WARNING [req-9338] [client 192.168.1.186] API rate limit approaching
+[2026-05-06T07:37:03.918030+00:00] DEBUG [req-9939] [client 192.168.1.49] Retrying connection
+[2026-05-06T07:37:04.918030+00:00] INFO [req-7767] [client 192.168.1.160] Query executed
+[2026-05-06T07:37:05.918030+00:00] INFO [req-7678] [client 192.168.1.108] Query executed
+[2026-05-06T07:37:06.918030+00:00] WARNING [req-1585] [client 192.168.1.33] High memory usage detected
+[2026-05-06T07:37:07.918030+00:00] INFO [req-5679] [client 192.168.1.246] User logged in
+[2026-05-06T07:37:08.918030+00:00] WARNING [req-9112] [client 192.168.1.82] API rate limit approaching
+[2026-05-06T07:37:09.918030+00:00] INFO [req-4390] [client 192.168.1.93] Query executed
+[2026-05-06T07:37:10.918030+00:00] INFO [req-5689] [client 192.168.1.242] Connection established
+[2026-05-06T07:37:11.918030+00:00] DEBUG [req-2742] [client 192.168.1.86] Cache miss
+[2026-05-06T07:37:12.918030+00:00] INFO [req-1441] [client 192.168.1.21] User logged in
+[2026-05-06T07:37:13.918030+00:00] INFO [req-8312] [client 192.168.1.71] Query executed
+[2026-05-06T07:37:14.918030+00:00] WARNING [req-4746] [client 192.168.1.235] Connection timeout
+[2026-05-06T07:37:15.918030+00:00] ERROR [req-2837] [client 192.168.1.168] Failed to connect to database
+[2026-05-06T07:37:16.918030+00:00] INFO [req-8194] [client 192.168.1.229] Query executed
+[2026-05-06T07:37:17.918030+00:00] ERROR [req-6036] [client 192.168.1.202] Authentication failed
+[2026-05-06T07:37:18.918030+00:00] INFO [req-3109] [client 192.168.1.15] Heartbeat ok
+[2026-05-06T07:37:19.918030+00:00] WARNING [req-7984] [client 192.168.1.225] Connection timeout
+[2026-05-06T07:37:20.918030+00:00] DEBUG [req-3614] [client 192.168.1.137] Memory usage at 45%
+[2026-05-06T07:37:21.918030+00:00] INFO [req-2095] [client 192.168.1.76] Metrics flushed
+[2026-05-06T07:37:22.918030+00:00] DEBUG [req-6973] [client 192.168.1.48] Cache miss
+[2026-05-06T07:37:23.918030+00:00] ERROR [req-3188] [client 192.168.1.26] Failed to connect to database
+[2026-05-06T07:37:24.918030+00:00] DEBUG [req-1462] [client 192.168.1.193] Cache miss
+[2026-05-06T07:37:25.918030+00:00] INFO [req-4857] [client 192.168.1.232] Data processed successfully
+[2026-05-06T07:37:26.918030+00:00] DEBUG [req-4488] [client 192.168.1.117] Thread spawned
+[2026-05-06T07:37:27.918030+00:00] INFO [req-7500] [client 192.168.1.126] Heartbeat ok
+[2026-05-06T07:37:28.918030+00:00] INFO [req-3319] [client 192.168.1.66] Metrics flushed
+[2026-05-06T07:37:29.918030+00:00] INFO [req-8319] [client 192.168.1.9] Data processed successfully
+[2026-05-06T07:37:30.918030+00:00] INFO [req-6701] [client 192.168.1.133] User logged in
+[2026-05-06T07:37:31.918030+00:00] INFO [req-2883] [client 192.168.1.32] Query executed
+[2026-05-06T07:37:32.918030+00:00] DEBUG [req-5598] [client 192.168.1.217] Thread spawned
+[2026-05-06T07:37:33.918030+00:00] INFO [req-1597] [client 192.168.1.9] Connection established
+[2026-05-06T07:37:34.918030+00:00] CRITICAL [req-6312] [client 192.168.1.155] Database corrupted
+[2026-05-06T07:37:35.918030+00:00] INFO [req-5610] [client 192.168.1.13] Data processed successfully
+[2026-05-06T07:37:36.918030+00:00] DEBUG [req-1654] [client 192.168.1.113] Retrying connection
+[2026-05-06T07:37:37.918030+00:00] ERROR [req-4981] [client 192.168.1.212] Authentication failed
+[2026-05-06T07:37:38.918030+00:00] INFO [req-3820] [client 192.168.1.216] User logged in
+[2026-05-06T07:37:39.918030+00:00] ERROR [req-1859] [client 192.168.1.95] Failed to connect to database
+[2026-05-06T07:37:40.918030+00:00] DEBUG [req-8417] [client 192.168.1.5] Retrying connection
+[2026-05-06T07:37:41.918030+00:00] INFO [req-7322] [client 192.168.1.193] User logged in
+[2026-05-06T07:37:42.918030+00:00] ERROR [req-6652] [client 192.168.1.207] Timeout waiting for response
+[2026-05-06T07:37:43.918030+00:00] ERROR [req-6649] [client 192.168.1.86] Authentication failed
+[2026-05-06T07:37:44.918030+00:00] INFO [req-8928] [client 192.168.1.217] User logged in
+[2026-05-06T07:37:45.918030+00:00] ERROR [req-4975] [client 192.168.1.76] Timeout waiting for response
+[2026-05-06T07:37:46.918030+00:00] INFO [req-6044] [client 192.168.1.41] Data processed successfully
+[2026-05-06T07:37:47.918030+00:00] INFO [req-6460] [client 192.168.1.251] Data processed successfully
+[2026-05-06T07:37:48.918030+00:00] INFO [req-1704] [client 192.168.1.61] Heartbeat ok
+[2026-05-06T07:37:49.918030+00:00] DEBUG [req-4351] [client 192.168.1.10] Cache miss
+[2026-05-06T07:37:50.918030+00:00] WARNING [req-2650] [client 192.168.1.183] API rate limit approaching
+[2026-05-06T07:37:51.918030+00:00] INFO [req-1048] [client 192.168.1.150] User logged in
+[2026-05-06T07:37:52.918030+00:00] INFO [req-3847] [client 192.168.1.140] Query executed
+[2026-05-06T07:37:53.918030+00:00] WARNING [req-6369] [client 192.168.1.252] High memory usage detected
+[2026-05-06T07:37:54.918030+00:00] WARNING [req-5969] [client 192.168.1.252] Connection timeout
+[2026-05-06T07:37:55.918030+00:00] INFO [req-1865] [client 192.168.1.225] Data processed successfully
+[2026-05-06T07:37:56.918030+00:00] DEBUG [req-2948] [client 192.168.1.152] Memory usage at 45%
+[2026-05-06T07:37:57.918030+00:00] INFO [req-9669] [client 192.168.1.105] User logged in
+[2026-05-06T07:37:58.918030+00:00] INFO [req-9334] [client 192.168.1.44] Data processed successfully
+[2026-05-06T07:37:59.918030+00:00] DEBUG [req-3090] [client 192.168.1.187] Retrying connection
+[2026-05-06T07:38:00.918030+00:00] DEBUG [req-1563] [client 192.168.1.212] Memory usage at 45%
+[2026-05-06T07:38:01.918030+00:00] INFO [req-1308] [client 192.168.1.118] Connection established
+[2026-05-06T07:38:02.918030+00:00] ERROR [req-2953] [client 192.168.1.129] Failed to connect to database
+[2026-05-06T07:38:03.918030+00:00] INFO [req-6658] [client 192.168.1.159] Metrics flushed
+[2026-05-06T07:38:04.918030+00:00] DEBUG [req-3396] [client 192.168.1.163] Retrying connection
+[2026-05-06T07:38:05.918030+00:00] INFO [req-5244] [client 192.168.1.76] Heartbeat ok
+[2026-05-06T07:38:06.918030+00:00] INFO [req-2505] [client 192.168.1.32] Query executed
+[2026-05-06T07:38:07.918030+00:00] INFO [req-6203] [client 192.168.1.202] Data processed successfully
+[2026-05-06T07:38:08.918030+00:00] INFO [req-3373] [client 192.168.1.183] Data processed successfully
+[2026-05-06T07:38:09.918030+00:00] INFO [req-2083] [client 192.168.1.202] User logged in
+[2026-05-06T07:38:10.918030+00:00] DEBUG [req-4763] [client 192.168.1.236] Memory usage at 45%
+[2026-05-06T07:38:11.918030+00:00] DEBUG [req-8069] [client 192.168.1.135] Cache miss
+[2026-05-06T07:38:12.918030+00:00] DEBUG [req-9964] [client 192.168.1.205] Cache miss
+[2026-05-06T07:38:13.918030+00:00] WARNING [req-5603] [client 192.168.1.14] API rate limit approaching
+[2026-05-06T07:38:14.918030+00:00] INFO [req-4480] [client 192.168.1.53] Metrics flushed
+[2026-05-06T07:38:15.918030+00:00] INFO [req-8311] [client 192.168.1.148] Metrics flushed
+[2026-05-06T07:38:16.918030+00:00] INFO [req-5062] [client 192.168.1.172] Metrics flushed
+[2026-05-06T07:38:17.918030+00:00] INFO [req-3322] [client 192.168.1.53] Connection established
+[2026-05-06T07:38:18.918030+00:00] DEBUG [req-8399] [client 192.168.1.222] Memory usage at 45%
+[2026-05-06T07:38:19.918030+00:00] ERROR [req-2800] [client 192.168.1.85] Invalid payload received
+[2026-05-06T07:38:20.918030+00:00] ERROR [req-3010] [client 192.168.1.93] Timeout waiting for response
+[2026-05-06T07:38:21.918030+00:00] INFO [req-5605] [client 192.168.1.33] Connection established
+[2026-05-06T07:38:22.918030+00:00] ERROR [req-9509] [client 192.168.1.88] Failed to connect to database
+[2026-05-06T07:38:23.918030+00:00] INFO [req-1366] [client 192.168.1.241] Query executed
+[2026-05-06T07:38:24.918030+00:00] CRITICAL [req-9301] [client 192.168.1.249] Disk full
+[2026-05-06T07:38:25.918030+00:00] ERROR [req-4357] [client 192.168.1.201] Failed to connect to database
+[2026-05-06T07:38:26.918030+00:00] INFO [req-3193] [client 192.168.1.145] Metrics flushed
+[2026-05-06T07:38:27.918030+00:00] INFO [req-3337] [client 192.168.1.3] User logged in
+[2026-05-06T07:38:28.918030+00:00] WARNING [req-4118] [client 192.168.1.111] API rate limit approaching
+[2026-05-06T07:38:29.918030+00:00] INFO [req-6397] [client 192.168.1.37] Connection established
+[2026-05-06T07:38:30.918030+00:00] INFO [req-8812] [client 192.168.1.174] Data processed successfully
+[2026-05-06T07:38:31.918030+00:00] WARNING [req-4129] [client 192.168.1.85] Deprecated endpoint accessed
+[2026-05-06T07:38:32.918030+00:00] INFO [req-7163] [client 192.168.1.111] Data processed successfully
+[2026-05-06T07:38:33.918030+00:00] WARNING [req-4091] [client 192.168.1.75] Deprecated endpoint accessed
+[2026-05-06T07:38:34.918030+00:00] INFO [req-2597] [client 192.168.1.43] User logged in
+[2026-05-06T07:38:35.918030+00:00] DEBUG [req-2148] [client 192.168.1.206] Thread spawned
+[2026-05-06T07:38:36.918030+00:00] DEBUG [req-5021] [client 192.168.1.92] Retrying connection
+[2026-05-06T07:38:37.918030+00:00] INFO [req-8327] [client 192.168.1.193] Query executed
+[2026-05-06T07:38:38.918030+00:00] ERROR [req-3832] [client 192.168.1.185] Timeout waiting for response
+[2026-05-06T07:38:39.918030+00:00] INFO [req-6452] [client 192.168.1.190] Metrics flushed
+[2026-05-06T07:38:40.918030+00:00] DEBUG [req-2460] [client 192.168.1.2] Cache miss
+[2026-05-06T07:38:41.918030+00:00] DEBUG [req-2728] [client 192.168.1.184] Cache miss
+[2026-05-06T07:38:42.918030+00:00] WARNING [req-6383] [client 192.168.1.14] API rate limit approaching
+[2026-05-06T07:38:43.918030+00:00] DEBUG [req-5046] [client 192.168.1.2] Retrying connection
+[2026-05-06T07:38:44.918030+00:00] ERROR [req-6893] [client 192.168.1.21] Timeout waiting for response
+[2026-05-06T07:38:45.918030+00:00] INFO [req-4402] [client 192.168.1.162] Query executed
+[2026-05-06T07:38:46.918030+00:00] INFO [req-4077] [client 192.168.1.169] User logged in
+[2026-05-06T07:38:47.918030+00:00] WARNING [req-6644] [client 192.168.1.52] API rate limit approaching
+[2026-05-06T07:38:48.918030+00:00] DEBUG [req-6866] [client 192.168.1.65] Retrying connection
+[2026-05-06T07:38:49.918030+00:00] INFO [req-3444] [client 192.168.1.156] Query executed
+[2026-05-06T07:38:50.918030+00:00] INFO [req-4330] [client 192.168.1.102] Data processed successfully
+[2026-05-06T07:38:51.918030+00:00] INFO [req-3694] [client 192.168.1.101] Metrics flushed
+[2026-05-06T07:38:52.918030+00:00] DEBUG [req-2132] [client 192.168.1.53] Memory usage at 45%
+[2026-05-06T07:38:53.918030+00:00] INFO [req-4160] [client 192.168.1.129] Data processed successfully
+[2026-05-06T07:38:54.918030+00:00] INFO [req-2138] [client 192.168.1.31] Connection established
+[2026-05-06T07:38:55.918030+00:00] INFO [req-8295] [client 192.168.1.208] Query executed
+[2026-05-06T07:38:56.918030+00:00] INFO [req-8680] [client 192.168.1.203] Heartbeat ok
+[2026-05-06T07:38:57.918030+00:00] INFO [req-7477] [client 192.168.1.128] Connection established
+[2026-05-06T07:38:58.918030+00:00] ERROR [req-6318] [client 192.168.1.97] Invalid payload received
+[2026-05-06T07:38:59.918030+00:00] INFO [req-7848] [client 192.168.1.115] User logged in
+[2026-05-06T07:39:00.918030+00:00] INFO [req-3612] [client 192.168.1.48] Data processed successfully
+[2026-05-06T07:39:01.918030+00:00] DEBUG [req-8181] [client 192.168.1.98] Cache miss
+[2026-05-06T07:39:02.918030+00:00] WARNING [req-7863] [client 192.168.1.173] Deprecated endpoint accessed
+[2026-05-06T07:39:03.918030+00:00] INFO [req-1188] [client 192.168.1.72] Connection established
+[2026-05-06T07:39:04.918030+00:00] INFO [req-1421] [client 192.168.1.33] Data processed successfully
+[2026-05-06T07:39:05.918030+00:00] INFO [req-1025] [client 192.168.1.227] Connection established
+[2026-05-06T07:39:06.918030+00:00] DEBUG [req-7888] [client 192.168.1.56] Thread spawned
+[2026-05-06T07:39:07.918030+00:00] DEBUG [req-7380] [client 192.168.1.230] Retrying connection
+[2026-05-06T07:39:08.918030+00:00] INFO [req-5391] [client 192.168.1.143] Heartbeat ok
+[2026-05-06T07:39:09.918030+00:00] INFO [req-6801] [client 192.168.1.157] Metrics flushed
+[2026-05-06T07:39:10.918030+00:00] INFO [req-7560] [client 192.168.1.201] Connection established
+[2026-05-06T07:39:11.918030+00:00] INFO [req-4779] [client 192.168.1.70] Query executed
+[2026-05-06T07:39:12.918030+00:00] INFO [req-2192] [client 192.168.1.177] Query executed
+[2026-05-06T07:39:13.918030+00:00] WARNING [req-9768] [client 192.168.1.90] API rate limit approaching
+[2026-05-06T07:39:14.918030+00:00] DEBUG [req-3734] [client 192.168.1.239] Retrying connection
+[2026-05-06T07:39:15.918030+00:00] INFO [req-9820] [client 192.168.1.19] Heartbeat ok
+[2026-05-06T07:39:16.918030+00:00] INFO [req-6087] [client 192.168.1.93] Query executed
+[2026-05-06T07:39:17.918030+00:00] INFO [req-4115] [client 192.168.1.255] Heartbeat ok
+[2026-05-06T07:39:18.918030+00:00] DEBUG [req-5665] [client 192.168.1.110] Memory usage at 45%
+[2026-05-06T07:39:19.918030+00:00] INFO [req-3851] [client 192.168.1.65] Query executed
+[2026-05-06T07:39:20.918030+00:00] WARNING [req-6722] [client 192.168.1.89] API rate limit approaching
+[2026-05-06T07:39:21.918030+00:00] INFO [req-8539] [client 192.168.1.156] Query executed
+[2026-05-06T07:39:22.918030+00:00] WARNING [req-9341] [client 192.168.1.104] API rate limit approaching
+[2026-05-06T07:39:23.918030+00:00] DEBUG [req-4219] [client 192.168.1.76] Cache miss
+[2026-05-06T07:39:24.918030+00:00] INFO [req-8221] [client 192.168.1.104] User logged in
+[2026-05-06T07:39:25.918030+00:00] INFO [req-2905] [client 192.168.1.127] Data processed successfully
+[2026-05-06T07:39:26.918030+00:00] DEBUG [req-8357] [client 192.168.1.152] Memory usage at 45%
+[2026-05-06T07:39:27.918030+00:00] INFO [req-4761] [client 192.168.1.126] Connection established
+[2026-05-06T07:39:28.918030+00:00] CRITICAL [req-4185] [client 192.168.1.152] Application crashed
+[2026-05-06T07:39:29.918030+00:00] ERROR [req-1919] [client 192.168.1.222] Timeout waiting for response
+[2026-05-06T07:39:30.918030+00:00] INFO [req-3499] [client 192.168.1.78] User logged in
+[2026-05-06T07:39:31.918030+00:00] INFO [req-6563] [client 192.168.1.32] User logged in
+[2026-05-06T07:39:32.918030+00:00] DEBUG [req-9254] [client 192.168.1.115] Cache miss
+[2026-05-06T07:39:33.918030+00:00] WARNING [req-8947] [client 192.168.1.239] API rate limit approaching
+[2026-05-06T07:39:34.918030+00:00] DEBUG [req-4071] [client 192.168.1.102] Retrying connection
+[2026-05-06T07:39:35.918030+00:00] INFO [req-3054] [client 192.168.1.27] Query executed
+[2026-05-06T07:39:36.918030+00:00] INFO [req-9070] [client 192.168.1.152] Heartbeat ok
+[2026-05-06T07:39:37.918030+00:00] INFO [req-4427] [client 192.168.1.8] Heartbeat ok
+[2026-05-06T07:39:38.918030+00:00] CRITICAL [req-4333] [client 192.168.1.92] Disk full
+[2026-05-06T07:39:39.918030+00:00] DEBUG [req-2072] [client 192.168.1.219] Cache miss
+[2026-05-06T07:39:40.918030+00:00] DEBUG [req-5902] [client 192.168.1.188] Memory usage at 45%
+[2026-05-06T07:39:41.918030+00:00] INFO [req-5093] [client 192.168.1.136] User logged in
+[2026-05-06T07:39:42.918030+00:00] INFO [req-6099] [client 192.168.1.121] User logged in
+[2026-05-06T07:39:43.918030+00:00] DEBUG [req-8923] [client 192.168.1.17] Retrying connection
+[2026-05-06T07:39:44.918030+00:00] INFO [req-1610] [client 192.168.1.222] Connection established
+[2026-05-06T07:39:45.918030+00:00] INFO [req-7275] [client 192.168.1.218] Data processed successfully
+[2026-05-06T07:39:46.918030+00:00] INFO [req-5151] [client 192.168.1.87] Query executed
+[2026-05-06T07:39:47.918030+00:00] INFO [req-2552] [client 192.168.1.27] Query executed
+[2026-05-06T07:39:48.918030+00:00] WARNING [req-4652] [client 192.168.1.54] High memory usage detected
+[2026-05-06T07:39:49.918030+00:00] DEBUG [req-7947] [client 192.168.1.2] Retrying connection
+[2026-05-06T07:39:50.918030+00:00] DEBUG [req-9339] [client 192.168.1.147] Cache miss
+[2026-05-06T07:39:51.918030+00:00] DEBUG [req-7215] [client 192.168.1.95] Thread spawned
+[2026-05-06T07:39:52.918030+00:00] INFO [req-1953] [client 192.168.1.134] User logged in
+[2026-05-06T07:39:53.918030+00:00] INFO [req-1078] [client 192.168.1.2] User logged in
+[2026-05-06T07:39:54.918030+00:00] INFO [req-2467] [client 192.168.1.241] Heartbeat ok
+[2026-05-06T07:39:55.918030+00:00] INFO [req-1387] [client 192.168.1.156] Heartbeat ok
+[2026-05-06T07:39:56.918030+00:00] WARNING [req-5150] [client 192.168.1.243] API rate limit approaching
+[2026-05-06T07:39:57.918030+00:00] INFO [req-4935] [client 192.168.1.189] User logged in
+[2026-05-06T07:39:58.918030+00:00] INFO [req-9509] [client 192.168.1.14] Data processed successfully
+[2026-05-06T07:39:59.918030+00:00] INFO [req-9679] [client 192.168.1.38] User logged in
+[2026-05-06T07:40:00.918030+00:00] INFO [req-8291] [client 192.168.1.111] User logged in
+[2026-05-06T07:40:01.918030+00:00] INFO [req-8259] [client 192.168.1.3] Query executed
+[2026-05-06T07:40:02.918030+00:00] WARNING [req-1002] [client 192.168.1.231] Deprecated endpoint accessed
+[2026-05-06T07:40:03.918030+00:00] INFO [req-4874] [client 192.168.1.111] User logged in
+[2026-05-06T07:40:04.918030+00:00] DEBUG [req-4253] [client 192.168.1.52] Retrying connection
+[2026-05-06T07:40:05.918030+00:00] INFO [req-1492] [client 192.168.1.45] Query executed
+[2026-05-06T07:40:06.918030+00:00] INFO [req-7256] [client 192.168.1.139] Heartbeat ok
+[2026-05-06T07:40:07.918030+00:00] INFO [req-9950] [client 192.168.1.12] Metrics flushed
+[2026-05-06T07:40:08.918030+00:00] INFO [req-4457] [client 192.168.1.3] Query executed
+[2026-05-06T07:40:09.918030+00:00] WARNING [req-9007] [client 192.168.1.216] High memory usage detected
+[2026-05-06T07:40:10.918030+00:00] ERROR [req-8436] [client 192.168.1.158] Authentication failed
+[2026-05-06T07:40:11.918030+00:00] INFO [req-5349] [client 192.168.1.211] Metrics flushed
+[2026-05-06T07:40:12.918030+00:00] INFO [req-1505] [client 192.168.1.88] Heartbeat ok
+[2026-05-06T07:40:13.918030+00:00] INFO [req-8765] [client 192.168.1.162] Heartbeat ok
+[2026-05-06T07:40:14.918030+00:00] INFO [req-6829] [client 192.168.1.109] Connection established
+[2026-05-06T07:40:15.918030+00:00] INFO [req-9738] [client 192.168.1.121] Metrics flushed
+[2026-05-06T07:40:16.918030+00:00] INFO [req-4767] [client 192.168.1.57] User logged in
+[2026-05-06T07:40:17.918030+00:00] INFO [req-1332] [client 192.168.1.44] Heartbeat ok
+[2026-05-06T07:40:18.918030+00:00] DEBUG [req-7398] [client 192.168.1.176] Retrying connection
+[2026-05-06T07:40:19.918030+00:00] WARNING [req-9738] [client 192.168.1.238] API rate limit approaching
+[2026-05-06T07:40:20.918030+00:00] INFO [req-5729] [client 192.168.1.239] User logged in
+[2026-05-06T07:40:21.918030+00:00] INFO [req-7706] [client 192.168.1.250] Metrics flushed
+[2026-05-06T07:40:22.918030+00:00] INFO [req-8089] [client 192.168.1.196] Connection established
+[2026-05-06T07:40:23.918030+00:00] INFO [req-7776] [client 192.168.1.163] Query executed
+[2026-05-06T07:40:24.918030+00:00] WARNING [req-6210] [client 192.168.1.184] High memory usage detected
+[2026-05-06T07:40:25.918030+00:00] WARNING [req-4704] [client 192.168.1.6] Connection timeout
+[2026-05-06T07:40:26.918030+00:00] INFO [req-4809] [client 192.168.1.53] Connection established
+[2026-05-06T07:40:27.918030+00:00] ERROR [req-7779] [client 192.168.1.139] Timeout waiting for response
+[2026-05-06T07:40:28.918030+00:00] INFO [req-9333] [client 192.168.1.205] Connection established
+[2026-05-06T07:40:29.918030+00:00] INFO [req-6722] [client 192.168.1.127] Connection established
+[2026-05-06T07:40:30.918030+00:00] INFO [req-7314] [client 192.168.1.249] Data processed successfully
+[2026-05-06T07:40:31.918030+00:00] INFO [req-6530] [client 192.168.1.116] Metrics flushed
+[2026-05-06T07:40:32.918030+00:00] INFO [req-9540] [client 192.168.1.30] Query executed
+[2026-05-06T07:40:33.918030+00:00] WARNING [req-1541] [client 192.168.1.212] Connection timeout
+[2026-05-06T07:40:34.918030+00:00] INFO [req-1927] [client 192.168.1.197] Data processed successfully
+[2026-05-06T07:40:35.918030+00:00] INFO [req-4082] [client 192.168.1.99] Data processed successfully
+[2026-05-06T07:40:36.918030+00:00] DEBUG [req-5669] [client 192.168.1.56] Retrying connection
+[2026-05-06T07:40:37.918030+00:00] ERROR [req-9270] [client 192.168.1.44] Authentication failed
+[2026-05-06T07:40:38.918030+00:00] INFO [req-6623] [client 192.168.1.100] User logged in
+[2026-05-06T07:40:39.918030+00:00] CRITICAL [req-1968] [client 192.168.1.216] Database corrupted
+[2026-05-06T07:40:40.918030+00:00] WARNING [req-1705] [client 192.168.1.147] High memory usage detected
+[2026-05-06T07:40:41.918030+00:00] INFO [req-2526] [client 192.168.1.130] Query executed
+[2026-05-06T07:40:42.918030+00:00] DEBUG [req-5325] [client 192.168.1.252] Memory usage at 45%
+[2026-05-06T07:40:43.918030+00:00] INFO [req-5130] [client 192.168.1.122] Query executed
+[2026-05-06T07:40:44.918030+00:00] INFO [req-9221] [client 192.168.1.193] User logged in
+[2026-05-06T07:40:45.918030+00:00] DEBUG [req-5014] [client 192.168.1.135] Memory usage at 45%
+[2026-05-06T07:40:46.918030+00:00] INFO [req-4273] [client 192.168.1.166] Query executed
+[2026-05-06T07:40:47.918030+00:00] DEBUG [req-5556] [client 192.168.1.15] Memory usage at 45%
+[2026-05-06T07:40:48.918030+00:00] ERROR [req-5487] [client 192.168.1.79] Failed to connect to database
+[2026-05-06T07:40:49.918030+00:00] ERROR [req-2068] [client 192.168.1.63] Timeout waiting for response
+[2026-05-06T07:40:50.918030+00:00] INFO [req-3062] [client 192.168.1.244] User logged in
+[2026-05-06T07:40:51.918030+00:00] INFO [req-5722] [client 192.168.1.250] Data processed successfully
+[2026-05-06T07:40:52.918030+00:00] ERROR [req-9939] [client 192.168.1.163] Authentication failed
+[2026-05-06T07:40:53.918030+00:00] INFO [req-6978] [client 192.168.1.134] Metrics flushed
+[2026-05-06T07:40:54.918030+00:00] INFO [req-9258] [client 192.168.1.244] User logged in
+[2026-05-06T07:40:55.918030+00:00] ERROR [req-4627] [client 192.168.1.102] Timeout waiting for response
+[2026-05-06T07:40:56.918030+00:00] INFO [req-7966] [client 192.168.1.116] Metrics flushed
+[2026-05-06T07:40:57.918030+00:00] INFO [req-9192] [client 192.168.1.164] Connection established
+[2026-05-06T07:40:58.918030+00:00] WARNING [req-5167] [client 192.168.1.73] Connection timeout
+[2026-05-06T07:40:59.918030+00:00] DEBUG [req-3702] [client 192.168.1.183] Retrying connection
+[2026-05-06T07:41:00.918030+00:00] INFO [req-1074] [client 192.168.1.218] Data processed successfully
+[2026-05-06T07:41:01.918030+00:00] WARNING [req-3075] [client 192.168.1.20] API rate limit approaching
+[2026-05-06T07:41:02.918030+00:00] INFO [req-3884] [client 192.168.1.69] Query executed
+[2026-05-06T07:41:03.918030+00:00] DEBUG [req-4938] [client 192.168.1.206] Memory usage at 45%
+[2026-05-06T07:41:04.918030+00:00] INFO [req-2712] [client 192.168.1.68] Heartbeat ok
+[2026-05-06T07:41:05.918030+00:00] INFO [req-4257] [client 192.168.1.36] Metrics flushed
+[2026-05-06T07:41:06.918030+00:00] INFO [req-5067] [client 192.168.1.161] User logged in
+[2026-05-06T07:41:07.918030+00:00] DEBUG [req-9287] [client 192.168.1.136] Cache miss
+[2026-05-06T07:41:08.918030+00:00] WARNING [req-2445] [client 192.168.1.112] High memory usage detected
+[2026-05-06T07:41:09.918030+00:00] INFO [req-6836] [client 192.168.1.33] Connection established
+[2026-05-06T07:41:10.918030+00:00] DEBUG [req-8300] [client 192.168.1.76] Cache miss
+[2026-05-06T07:41:11.918030+00:00] INFO [req-1127] [client 192.168.1.119] Query executed
+[2026-05-06T07:41:12.918030+00:00] INFO [req-1921] [client 192.168.1.55] Heartbeat ok
+[2026-05-06T07:41:13.918030+00:00] WARNING [req-4267] [client 192.168.1.62] Deprecated endpoint accessed
+[2026-05-06T07:41:14.918030+00:00] INFO [req-2076] [client 192.168.1.141] Query executed
+[2026-05-06T07:41:15.918030+00:00] INFO [req-5075] [client 192.168.1.220] Connection established
+[2026-05-06T07:41:16.918030+00:00] INFO [req-4764] [client 192.168.1.231] Connection established
+[2026-05-06T07:41:17.918030+00:00] INFO [req-6882] [client 192.168.1.127] User logged in
+[2026-05-06T07:41:18.918030+00:00] INFO [req-2968] [client 192.168.1.33] Connection established
+[2026-05-06T07:41:19.918030+00:00] ERROR [req-7873] [client 192.168.1.213] Invalid payload received
+[2026-05-06T07:41:20.918030+00:00] INFO [req-6836] [client 192.168.1.68] Metrics flushed
+[2026-05-06T07:41:21.918030+00:00] WARNING [req-7738] [client 192.168.1.54] High memory usage detected
+[2026-05-06T07:41:22.918030+00:00] INFO [req-7895] [client 192.168.1.231] Connection established
+[2026-05-06T07:41:23.918030+00:00] INFO [req-5809] [client 192.168.1.22] User logged in
+[2026-05-06T07:41:24.918030+00:00] INFO [req-8572] [client 192.168.1.87] Data processed successfully
+[2026-05-06T07:41:25.918030+00:00] INFO [req-4139] [client 192.168.1.57] User logged in
+[2026-05-06T07:41:26.918030+00:00] DEBUG [req-1820] [client 192.168.1.102] Cache miss
