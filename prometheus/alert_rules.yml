@@ -1,0 +1,38 @@
+groups:
+  - name: LogMonitorAlerts
+    rules:
+      - alert: HighErrorRate
+        expr: rate(error_count_total[1m]) > 0.1
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: "High HTTP error rate on {{ $labels.instance }}"
+          description: "Error rate is {{ $value }} errors/sec, which is above threshold (0.1/sec)."
+
+      - alert: HighLatency
+        expr: histogram_quantile(0.95, sum(rate(request_latency_seconds_bucket[1m])) by (le, endpoint)) > 1.0
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "High latency on {{ $labels.endpoint }}"
+          description: "p95 latency is {{ $value }}s, which is above threshold (1.0s)."
+
+      - alert: AppDown
+        expr: up == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Log monitor app is down"
+          description: "The application target has been unreachable for 1 minute."
+
+      - alert: LogMonitorTriggered
+        expr: increase(alerts_triggered_total[1m]) > 0
+        for: 1m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Application logs indicated anomalies"
+          description: "The log monitor detected {{ $value }} new log anomalies in the last minute."

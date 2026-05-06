@@ -1,0 +1,21 @@
+2025-01-15 08:00:01 INFO  Application started successfully
+2025-01-15 08:00:02 INFO  Connected to database on localhost:5432
+2025-01-15 08:00:05 INFO  Health check passed
+2025-01-15 08:01:12 WARNING  Slow query detected: 2.3s on /api/users
+2025-01-15 08:01:45 INFO  Request processed: GET /api/status 200
+2025-01-15 08:02:30 ERROR  Failed to connect to cache server: connection refused
+2025-01-15 08:02:31 ERROR  Retry 1/3 for cache connection
+2025-01-15 08:02:33 ERROR  Retry 2/3 for cache connection
+2025-01-15 08:02:35 INFO  Cache connection restored
+2025-01-15 08:03:00 INFO  Request processed: POST /api/data 201
+2025-01-15 08:05:00 WARNING  Memory usage at 78%
+2025-01-15 08:06:12 INFO  Scheduled cleanup job started
+2025-01-15 08:06:15 INFO  Cleaned up 42 expired sessions
+2025-01-15 08:07:30 ERROR  Unhandled exception in /api/process: ValueError
+2025-01-15 08:08:00 INFO  Request processed: GET /api/logs 200
+2025-01-15 08:10:00 CRITICAL  Database connection pool exhausted
+2025-01-15 08:10:01 ERROR  Cannot process request: no database connections available
+2025-01-15 08:10:05 ERROR  Request timeout on /api/reports after 30s
+2025-01-15 08:10:10 WARNING  Circuit breaker opened for database service
+2025-01-15 08:11:00 INFO  Database connection pool recovered
+2025-01-15 08:12:00 INFO  All systems operational
